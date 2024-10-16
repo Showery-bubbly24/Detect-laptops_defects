@@ -3,8 +3,8 @@
 ## Введение
 
 Команда Chipsoni:
-- Telegram: @miraclle_24 M/L engeneer
-- Telegram: @zxcdenjir M/L engeneer
+- Telegram: @miraclle_24 M/L engineer
+- Telegram: @zxcdenjir M/L engineer
 - Telegram: @dhsjdhydue full-stack, TeamLead
 - Telegram: @Gaz228 backend developer
 - Telegram: @d_sh_qw frontend developer
