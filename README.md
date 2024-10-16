@@ -2,6 +2,13 @@
 
 ## Введение
 
+Команда Chipsoni:
+- Telegram: miraclle_24 M/L engeneer
+- Telegram: @zxcdenjir M/L engeneer
+- Telegram: @dhsjdhydue full-stack, TeamLead
+- Telegram: @Gaz228 backend developer
+- Telegram: @d_sh_qw frontend developer
+
 Данное приложение предназначено для обнаружения дефектов на ноутбуках по фотографиям. Оно использует модель YOLO (You Only Look Once) для детекции неисправностей. Приложение позволяет загружать изображения, вводить серийный номер ноутбука и генерировать отчет в формате CSV.
 
 ## Требования
