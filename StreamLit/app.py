@@ -6,7 +6,7 @@ from ultralytics import YOLO
 from PIL import Image
 
 # Загрузка модели YOLO
-model = YOLO('best.pt')
+model = YOLO('StreamLit/best.pt')
 
 # Словарь для сопоставления классов
 class_names = {
